@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.vercel/
+.local/
+node_modules/
+coverage/
+*.log
+*service-account*.json
+credentials.json
+.DS_Store
